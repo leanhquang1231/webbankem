@@ -1,0 +1,4 @@
+-Để Chạy Dự án Bật Xmapp
+-database có tên mixue
+-Mở thư mục model có file tên mixue.php là database bỏ nó vào phpmyadmin để có dữ liệu dự án
+-Tiếp đến chạy dự án http://127.0.0.1:8888/php3/php2/WebAo/
