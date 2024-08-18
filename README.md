@@ -1,6 +1,6 @@
 -Để Chạy Dự án Bật Xmapp
--database có tên mixue
--Mở thư mục model có file tên mixue.php là database bỏ nó vào phpmyadmin để có dữ liệu dự án
+- Vào PHPMYADMIN bỏ database có tên mixue vào
+-Mở thư mục model có file tên mixue.sql là database bỏ nó vào phpmyadmin để có dữ liệu dự án
 -Tiếp đến chạy dự án 
 Giao diện bán hàng http://127.0.0.1:8888/php3/php2/WebAo/
 Giao dien admin http://127.0.0.1:8888/php3/php2/WebAo/admin/index.php?page=quanlysanpham
